@@ -22,7 +22,7 @@ void setup() {
  lcd.setCursor(0,1);
  lcd.print("Monitoring");
  
- delay(2000); // put your setup code here, to run once:
+ delay(2000); 
 
 }
 
@@ -78,7 +78,6 @@ void loop() {
     delay(1000);
   }
   
-   //put your main  code here, to run repeatedly :
-   // put your main code here, to run repeatedly:
+  
 
 
