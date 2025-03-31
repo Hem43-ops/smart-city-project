@@ -17,5 +17,5 @@ void loop() {
   }
   if (val == 1) {
     tap_servo.write(90);
-  }  // put your main code here, to run repeatedly:
+  }  
 }
